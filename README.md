@@ -14,7 +14,7 @@ The requirement used here is "aptitude". But don't worry about how to install it
   
   ( I recommend you to copy it into root "/" so you can run the program right after opening Terminal)
   
-  2, Execute "vcleaner.sh" by the command: chmod +x vcleaner.sh
+  2, Execute "vcleaner.sh" by using the command: chmod +x vcleaner.sh (remember cd to the directory including vcleaner.sh)
   
  + How to use:
  
