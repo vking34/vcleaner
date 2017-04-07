@@ -17,6 +17,7 @@ The requirement used here is "aptitude". But don't worry about how to install it
   2, Execute "vcleaner.sh" by using the command: chmod +x vcleaner.sh (remember cd to the directory including vcleaner.sh)
   
  + How to use:
+ 
     1, Gain Root access before doing anything :D
  
     2, Type: ./vcleaner.sh and see :)))
