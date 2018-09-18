@@ -1,6 +1,6 @@
 # VCleaner
 A simple cleaner for Linux
-by VKing34
+writen by VKing34
 
 This program combines some commands in Terminal to clean up apt cache, old config files, old kernels and trashes in your Linux.
 
